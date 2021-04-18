@@ -1,0 +1,86 @@
+.form {
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 20px;
+}
+
+body {
+    margin-left: 850px;
+    margin-right: 800px;
+    margin-top: 200px;
+    margin-bottom: 800px;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: darkgray;
+    display: grid;
+}
+
+html {
+    background: linear-gradient(to top, #808080, #FFFFFF) no-repeat;
+}
+
+.submit {
+    margin-left: 67px;
+    margin-bottom: 15px;
+}
+
+.js-send {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    background-color: lightslategrey;
+    border-color: darkgray;
+    border-width: 1px;
+    border-radius: inherit;
+    height: 35px;
+    color: white;
+}
+
+#password {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-image: url("../img/pass.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#login {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-image: url("../img/login.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#error {
+    color: red;
+    text-align: center;
+}
+
+#out {
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: lightslategrey;
+    border-color: darkgray;
+    border-width: 1px;
+    border-radius: inherit;
+    height: 35px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+a:visited {
+    color: #FFFFFF;
+}
+
+#auth {
+    TEXT-ALIGN: center;
+    margin-top: 10px;
+    font-weight: bold
+}
+
+.select {
+    margin-bottom: 15px;
+}
